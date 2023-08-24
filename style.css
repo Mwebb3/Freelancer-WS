@@ -1,0 +1,8 @@
+.container {
+    border: 1px black solid;
+    text-align: center;
+}
+.container2 {
+    display: flex;
+    justify-content:space-evenly;
+}
